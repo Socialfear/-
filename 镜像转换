@@ -1,0 +1,1 @@
+robotInfor[RobotID].theta += 90;//备注一下。这个地方的加90度因为坐标系不一样\nif (robotInfor[RobotID].theta > 360)robotInfor[RobotID].theta -= 360;
